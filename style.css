@@ -1,0 +1,10 @@
+.src_text {
+    font-style: italic;
+    font-size: 14pt;
+    color: orange;
+    white-space: pre-wrap;
+}
+
+.src_error {
+    color: red;
+}
